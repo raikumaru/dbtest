@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "user1",
+      "password_hash": "5f4dcc3b5aa765d61d8327deb882cf99"  // "password"
+    },
+    {
+      "username": "admin",
+      "password_hash": "21232f297a57a5a743894a0e4a801fc3"  // "admin"
+    }
+  ]
+}
